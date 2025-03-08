@@ -12,7 +12,7 @@
 
 1. 克隆本仓库：
     ```bash
-    git clone https://github.com/<your_username>/stylegan-celeba.git
+    git clone https://github.com/YemuRiven/stylegan-celeba.git
     cd stylegan-celeba
     ```
 
