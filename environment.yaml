@@ -1,0 +1,12 @@
+name: stylegan-celeba
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch=2.0.0
+  - torchvision=0.15.0
+  - numpy
+  - matplotlib
+  - tqdm
+  - pillow
